@@ -1,8 +1,17 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: Singeurb
+  link: https://singeurb2017.faiufscar.com
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+   Android App to promote National Event of Management and Urban Engineering
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Android Application to promote a event hosted by Univerisade Federal de Sao Carlos.
+
+- layout: top-middle
+  name: Samsap
+  link: https://repositorio.ufscar.br/handle/ufscar/8575
+  quote: >
+    Support System for Water Management Stormwater
+  description: | # this will include new lines to allow paragraphs
+    As a result of Doctor tese of Sidnei Pereira da Silva, we developed a tool to assist the management of indicator that could help the public administration to monitor the management of rainwater.
+    This project was developed using <mark> Microsoft technologies</mark>: <mark> C# </mark> and <mark>SQLServer </mark>.
+    Project developed with collaboration of Felipe Marques <link> https://github.com/felipemsfg </link>
