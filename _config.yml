@@ -22,7 +22,7 @@ linkedin_username: icarooalmeida
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile2.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Icaro Almeida and I'm a full stack developer with over 6 years experience  based in the France. I am currently freelancer, looking for remote projects around Europe.
   I also have experience as  <mark>Software Developer in Test </mark> developing  <mark>Automation tools </mark> with <mark>Jenkins</mark> and <mark>Jira</mark> using  <mark>Ruby </mark>, <mark> Sinatra </mark>, <mark>Javascript</mark>  and  <mark>AngularJS</mark>.
