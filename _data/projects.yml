@@ -2,9 +2,10 @@
   name: Singeurb
   link: https://singeurb2017.faiufscar.com
   quote: >
-   Android App to promote National Event of Management and Urban Engineering
+   Android App to promote a National Event of Management and Urban Engineering
   description: | # this will include new lines to allow paragraphs
-    Android Application to promote a event hosted by Univerisade Federal de Sao Carlos.
+    Android Application to promote a national event of Management and Urban Engineering  hosted by Universidade Federal de Sao Carlos.
+    Project developed with: [Arthur Mazer](https://github.com/arthurmazer), [Guilherme Cardoso](https://github.com/guilhermemcardoso), [Felipe Marques](https://github.com/felipemsfg)
 
 - layout: top-middle
   name: Samsap
@@ -12,6 +13,6 @@
   quote: >
     Support System for Water Management Stormwater
   description: | # this will include new lines to allow paragraphs
-    As a result of Doctor tese of Sidnei Pereira da Silva, we developed a tool to assist the management of indicator that could help the public administration to monitor the management of rainwater.
+    We developed a tool to assist the public administration to monitor the management of rainwater. As a final project of Sidnei Pereira da Silva's PhD
     This project was developed using <mark> Microsoft technologies</mark>: <mark> C# </mark> and <mark>SQLServer </mark>.
-    Project developed with collaboration of Felipe Marques [links](https://github.com/felipemsfg) 
+    Project developed with collaboration of  [Felipe Marques](https://github.com/felipemsfg) 
