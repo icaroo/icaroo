@@ -4,24 +4,38 @@
   job_title: Software Application Developer
   dates: February 2019 - July 2019
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+   Responsible for the development of new tools and features of <mark>automation</mark>
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    Developing and improving tools for the other teams and for the clients
+    Provinding technical support: configuration of services and tools, creating/editing scripts, templates and databases;
+    Monitoring server and databases for automation tools, analyzing performance, integrations and organization
+    Mentoring students
+    Be an active member of a Agile Team, delivery weekly results and helping the team
 - layout: right
   company: RS2 Software - MALTA
   link: rs2.com
   job_title: Business System Analyst
   dates: August 2018 - February 2019
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+   Responsible for maintenance of 50+ Regression and Functional <mark>Pipelines</mark>
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    As a Business System Analyst I could learn about <mark>Concepts of Cardschemes</mark>, <mark>Payment</mark> and <mark>transactions lifecycle </mark>
+    My Daily routine was a mix between: Analyzing pipelines, debugging errors from SOA results, and deployment environments.Monitoring pipelines  Report Issues to proper departments, Executing and creating SQL Scripts.Writing Release documentation.
+    I was able to improve my skill and knowledge with: <mark> Jira</mark>, <mark>Jenkins</mark>, <mark>Confluence</mark>, <mark>Zenphyr</mark>, <mark>Change Request</mark>, <mark>Test Case</mark>,<mark> Pipeline</mark>, <mark>Automation</mark>
+ Achievements:|
+    Create and setup 24 new pipelines with 49 processes
+    Analyzed and reported 50+ Regression files
+    Monitoring and  reporting any issue on 45 pipelines
+    Writing 10+ release documentation
 - layout: left
   company: MTE-THOMSON - BRAZIL
   link: rs2.com
-  job_title: Software Developer
+  job_title: Full Stack Software Developer
   dates: January 2013 - July 2017
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+   Responsible for the development and maintenance of 10+ internal systems.
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    Coordinate developers, planning schedule developing of systems, requirements gathering with stakeholders, implement development environments to deliver new systems and new features with security and quality.
+    Developed a Manufacturing Execution Systems (MES) that improved the traceability and analysis of productions. Acting as a project leader could coordinate a senior team of 3 people to create an integration with a third-party Enterprise Resource Planning (ERP) where was possible to optimize the data available to managers and collaborators.
+    Improved the IT department with new technologies, tools, and methodologies that increase the management, quality, and security of the developments with: Linux Server, Docker, Git on premise, GitLab on premise, OnlyOffice on premise, Methodology Scrum + OKR
+    I had opportunity to create project, to develop new systems and to lead a team, also I enjoy driving the company to try new technologies.
