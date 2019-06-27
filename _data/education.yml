@@ -3,9 +3,9 @@
   dates: 2011 - 2016
   qualification: BSc Computer Science
   quote: >
-    Established in 1968, Federal University of São Carlos (UFSCar) is considered higher education institution in the Brazil, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university.In 2014, UFSCar obtained the 18th place among 300 Latin American universities included in the ranking prepared by Quacquarelli Symonds (QS). The institution obtained 82 points in the overall assessment and is, therefore, considered the 10th best Brazilian institution.
+    Established in 1968, Federal University of São Carlos (UFSCar) is considered a higher education institution in the Brazil, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university.In 2014, UFSCar obtained the 18th place among 300 Latin American universities included in the ranking prepared by Quacquarelli Symonds (QS). The institution obtained 82 points in the overall assessment and is, therefore, considered the <mark>10th best Brazilian institution</mark>.
   description: | # this will include new lines to allow paragraphs
-    During my time at UFSCar I learned most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thoroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    During my time at UFSCar I learned most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thoroughly enjoyed my time as student and learned a lot about a healthy work life balance.
     I spent a lot of my free time as a committee member of the [*CatiJr*](https://www2.ufscar.br/estudante/empresas-juniores) taking on roles such as *Project Manager*.
     Relevant Coursework: Software Engineering, Database Applications, Object-Oriented Programming, UI/X Design, Distributed Systems,  Structures and Algorithms, Software System Construction, Computer Architecture, Artificial Inteligence, Great Theoretical Ideas in Computer Science
     Extracurricular Activities: Member of Junior enterprise of the Department of Computing (DC)
@@ -16,6 +16,6 @@
   qualification: Nanodegree, Full Stack Web Developer
   quote: >
     Udacity is the outgrowth of free computer science classes offered in 2011 through Stanford University.
-    A Udacity Nanodegree® Program is a unique online educational offering designed to bridge the gap between learning and career goals.
+    A Udacity Nanodegree Program is a unique online educational offering designed to bridge the gap between learning and career goals.
   description: | # this will include new lines to allow paragraphs
     Relevant Coursework: Backend development, Relational Databases, Authentication & Authorization, Ajax, Software Design Patterns, Web Servers, Python, Docker, JavaScript.

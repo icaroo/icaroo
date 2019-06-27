@@ -24,12 +24,12 @@ linkedin_username: icarooalmeida
 # about_title: About Me
 about_profile_image: images/profile2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Icaro Almeida and I'm a full stack developer with over 6 years experience  based in the France. I am currently freelancer, looking for remote projects around Europe.
+  Hi, my name is Icaro Almeida and I'm a full stack developer with over 6 years experience based in the France. I am currently freelancer developer, and available for remote projects around Europe.
   I also have experience as  <mark>Software Developer in Test </mark> developing  <mark>Automation tools </mark> with <mark>Jenkins</mark> and <mark>Jira</mark> using  <mark>Ruby </mark>, <mark> Sinatra </mark>, <mark>Javascript</mark>  and  <mark>AngularJS</mark>.
-  As well as developing softwares, Apps, WebSites I also have experience as Business System Analyst. I have worked at a number of companies gaining teamwork and leadership skills.
+  As well as developing softwares, Apps, WebSites I also have experience as <mark>Business System Analyst</mark>. I have worked at a number of companies gaining teamwork and leadership skills.
   
   I have worked with a range of different languages and frameworks and I am always looking for opportunities to work with something new. The things that I currently have the most experience working with are: <mark>C#</mark>, <mark>Javascript</mark>, <mark>Json</mark> <mark>Ruby</mark>,<mark>PL/SQL</mark>,  <mark>MySQL</mark>, <mark>MongoDB</mark>, <mark>Android</mark>, <mark>git</mark>, <mark>Linux Server</mark> and <mark>Windows Server</mark>.
-
+  
   I am most skilled in: <mark>C#</mark> and <mark>Ruby</mark> for backend. <mark>Javascript</mark> and <mark>AngularJS</mark> for frontend.
   
 
@@ -48,7 +48,7 @@ more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in software engineering some of my other interests and hobbies are:
    - Music Production and Performance as DJ
    - Outdoor Sports
-   - Nature
+   - Exploring Nature
    - Photograph
 
 # Footer
