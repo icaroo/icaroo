@@ -6,10 +6,11 @@
   quote: >
    Responsible for the development of new tools and features of <mark>Automation</mark>
   description: | # this will include new lines to allow paragraphs
-    Developing and improving tools for the other teams and for the clients
-    Provinding technical support: configuration of services and tools, creating/editing scripts, templates and databases;
-    Monitoring server and databases for automation tools, analyzing performance, integrations and organization
-    Mentoring students
+    Developing and improving tools for the other teams and for the clients.
+    
+    Providing technical support: configuration of services and tools, creating/editing scripts, templates and databases;
+    Monitoring server and databases for automation tools, analyzing performance, integrations and organization;
+    Mentoring students;
     Be an active member of a Agile Team, delivery weekly results and helping the team
 - layout: right
   company: RS2 Software - MALTA
@@ -20,7 +21,9 @@
    Responsible for maintenance of 50+ Regression and Functional <mark>Pipelines</mark>
   description: | # this will include new lines to allow paragraphs
     As a Business System Analyst I could learned about <mark>Concepts of Cardschemes</mark>, <mark>Payment</mark> and <mark>Transactions Lifecycle </mark>.
-    My daily routine was a mix between: Analyzing pipelines, debugging errors from SOA results, and deployment environments.Monitoring pipelines  and report issues to the proper departments, executing and creating SQL Scripts.Writing Release documentation.
+    
+    My daily routine was a mix between: Analyzing pipelines, debugging errors from SOA results, and deployment environments. Also, Monitoring pipelines  and report issues to the proper departments, executing and creating SQL Scripts and writing Release documentation.
+    
     I was able to improve my skill and knowledge of: <mark> Jira</mark>, <mark>Jenkins</mark>, <mark>Confluence</mark>, <mark>Zenphyr</mark>, <mark>Change Request</mark>, <mark>Test Case</mark>,<mark> Pipeline</mark>, <mark>Automation</mark>.
 
 - layout: left

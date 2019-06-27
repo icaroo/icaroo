@@ -4,7 +4,7 @@
   quote: >
    Android App to promote a National Event of Management and Urban Engineering
   description: | # this will include new lines to allow paragraphs
-    Android Application to promote a national event of Management and Urban Engineering  hosted by Federal University of São Carlos (UFSCar).
+    <mark>Android Application</mark> to promote a national event of Management and Urban Engineering  hosted by Federal University of São Carlos (UFSCar).
     
     Project developed with: [Arthur Mazer](https://github.com/arthurmazer), [Guilherme Cardoso](https://github.com/guilhermemcardoso), [Felipe Marques](https://github.com/felipemsfg)
 
@@ -16,4 +16,5 @@
   description: | # this will include new lines to allow paragraphs
     We developed a tool to assist the public administration to monitor the management of rainwater. As a final project of Sidnei Pereira da Silva's PhD
     ,this project was developed using <mark> Microsoft technologies</mark>: <mark> C# </mark> and <mark>SQLServer </mark>.
+    
     Project developed with collaboration of  [Felipe Marques](https://github.com/felipemsfg) 
