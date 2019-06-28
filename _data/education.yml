@@ -10,14 +10,14 @@
     Relevant Coursework: Software Engineering, Database Applications, Object-Oriented Programming, UI/X Design, Distributed Systems,  Structures and Algorithms, Software System Construction, Computer Architecture, Artificial Inteligence, Great Theoretical Ideas in Computer Science
     Extracurricular Activities: Member of Junior enterprise of the Department of Computing (DC) - CatiJr
     Skills acquired: Leadership, Ability to Work on a Team, Communication Skills (Written and Spoken), Problem-solving Skills
+    Info: [UFSCar}(http://www.dc.ufscar.br/)
 - layout: right
   name: Udacity
   dates: 2017 - 2017
   qualification: Nanodegree, Full Stack Web Developer
   quote: >
-    Udacity is the outgrowth of free computer science classes offered in 2011 through Stanford University.[*CatiJr*](https://www2.ufscar.br/estudante/empresas-juniores)
-    A [Udacity Nanodegree Program](https://eu.udacity.com/nanodegree) is a unique online educational offering designed to bridge the gap between learning and career goals.
+    Udacity is the outgrowth of free computer science classes offered in 2011 through Stanford University.
+    A Udacity Nanodegree Program is a unique online educational offering designed to bridge the gap between learning and career goals.
   description: | # this will include new lines to allow paragraphs
     Relevant Coursework: Backend development, Relational Databases, Authentication & Authorization, Ajax, Software Design Patterns, Web Servers, Python, Docker, JavaScript.
-    
-    [Udacity Nanodegree Program](https://eu.udacity.com/nanodegree)
+    Info:[Udacity Nanodegree Program](https://eu.udacity.com/nanodegree)
